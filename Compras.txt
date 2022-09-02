@@ -2,3 +2,4 @@
 -Altimeter
 -Helmet
 -Altimeter
+-Suit
